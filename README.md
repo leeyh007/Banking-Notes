@@ -1,2 +1,4 @@
-# atestrun
-This is just a test run
+# Banking stud: A Note
+This repository just organizes my readings of banking studies. 
+
+
