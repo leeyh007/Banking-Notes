@@ -1,0 +1,1065 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman newcent
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing double
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a4paper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Bank Literature Summary
+\end_layout
+
+\begin_layout Author
+Li Yuehua
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Theory of the bank
+\end_layout
+
+\begin_layout Section
+Institutional background of the banking industry
+\end_layout
+
+\begin_layout Subsection
+Bank balance sheet 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.federalreserve.gov/releases/h8/Current/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Industry structure
+\end_layout
+
+\begin_layout Subsection
+Bank Holding Company
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.federalreserve.gov/boarddocs/SupManual/default.htm#trading
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Bank corporate governance
+\end_layout
+
+\begin_layout Standard
+Laeven, Luc, 2013, Corporate Governance: What’s Special About Banks?, Annual
+ Review of Financial Economics 5, 63–92.
+ 
+\end_layout
+
+\begin_layout Itemize
+Risk shifting problem 
+\end_layout
+
+\begin_layout Standard
+The challenge of bank corporate governance is that they must balance the
+ demands of being value-maximizing entities with serving the public interest
+ (Mehran and Mooineaux, 2012; Mehran et al.
+ 2011).
+ High leverage combined with subsidized deposit insurance, goverment guarantees
+ and bank opacity creates motives and opportunities for risk-taking which
+ can be optimal from the shareholders' point of view given limited liability,
+ but not form an economy-wide point of view if such risk-taking increases
+ the probability of failure that raises systemic risk.
+ (Laeven, 2013, Adams and Mehran, 2003, 2011).
+\end_layout
+
+\begin_layout Standard
+how about bank non-executive compensation, options and bank risk? 
+\end_layout
+
+\begin_layout Section
+Financial reporting of banking industry
+\end_layout
+
+\begin_layout Standard
+Main topics:
+\end_layout
+
+\begin_layout Standard
+(1) valuation and risk relevance of bank accounting informatiion
+\end_layout
+
+\begin_layout Standard
+(2) the use of accounting discretion to manage earnings and reported regulatory
+ capital
+\end_layout
+
+\begin_layout Standard
+(3) the effect of accounting on bank's economic behaviours before, during
+ and after the financial crisis.
+\end_layout
+
+\begin_layout Standard
+(4) the role of fair value accounting
+\end_layout
+
+\begin_layout Standard
+For a review see Beatty and Liao (2014), Bushman (2015) EPR, Ryan (2011)
+\end_layout
+
+\begin_layout Standard
+Market players can obtain bank information from various sources: accounting
+ information, information intermediaries like financial analysts, credit
+ rating agencies, media, supervisory disclosures (stress test disclosure),
+ bank voluntary disclosure, security prices.
+ (Any study on each gourp of information sources' effect on bank?)
+\end_layout
+
+\begin_layout Standard
+From the information receivers perspective, governement guarantee may dampen
+ market participants incentive to gather and process information (Nier and
+ Baumann, 2006; Furlong and Williams, 2006).
+ 
+\end_layout
+
+\begin_layout Subsection
+Theoy of transparency, reporting discretion in banking industry
+\end_layout
+
+\begin_layout Standard
+Positive side of bank transparency:
+\end_layout
+
+\begin_layout Standard
+Market discipline:
+\end_layout
+
+\begin_layout Enumerate
+enhance corporate governance.
+ (The complication of bank is that there is a confilict of interest between
+ shareholders and other staker holders.)
+\end_layout
+
+\begin_layout Enumerate
+Enhance external monitoring of banks' risk-taking decision.
+ (Rochet, 1992; Blume, 2002; Cordella and Yeyati, 1998).
+ 
+\end_layout
+
+\begin_layout Enumerate
+Transparency can limit regulatory forbearance by providing a basis for market
+ participants to extert pressure on bank supervisors to promptly intervene
+ in troubled banks (Rochet, 2005).
+\end_layout
+
+\begin_layout Enumerate
+Market discipline can also operate through regualtory intervention triggered
+ by market signals, such as price movements of bank securities (Stephanou,
+ 2010; Flannery, 20010).
+\end_layout
+
+\begin_layout Enumerate
+Transparency can reduce indiscriminate panic and rollover risk by reducing
+ depositors' and other short term lenders' uncertainty about the solvency
+ of individual banks (Ratnovski, 2013; Gortan and Huang, 2006).
+ (Uncertainty lead to funding difficulty, which lead to bank liqudity crisis:
+ Shin, 2009, Goldsmith-Pinkham and Yorumlmazer, 2010; Huang and Ratnovski,
+ 2011)
+\end_layout
+
+\begin_layout Enumerate
+Transparency can reduce 
+\series bold
+financing friction
+\series default
+ on banks seeking to raise external capital in response to negative balance
+ sheet shocks by reducing information asymmetry (Bushman and Williams, 2014;
+ Beatty and Liao, 2011).
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Theories of monetary policy tranmission through bank lending channel (Kashyap
+ and Stei, 1995, 2000)
+\end_layout
+
+\begin_layout Enumerate
+Capita Crunch theory: regulatory capital concerns cause banks to restrict
+ lending during economic downtrns (Bernanke and Lown, 1991; Bolton and Freixas,
+ 2006; Van den Heuvel, 2009).
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Negative side of bank transparency
+\end_layout
+
+\begin_layout Standard
+It often asserted that banks are inherently opaque (Morgan, 2002; Flannery
+ et al., 2004, 2013)
+\end_layout
+
+\begin_layout Enumerate
+Transparency can lead to inefficient bank runs driven by coordination failures
+ (Morris and Shin, 2002; Chen and Hasan, 2006)
+\end_layout
+
+\begin_layout Enumerate
+Cause reputational contagion where disclosure of a bank's failure causes
+ creditors in other banks to lose confidence in the bank regualtors' competence
+ (Morrison and White, 2013)
+\end_layout
+
+\begin_layout Enumerate
+Adversly affect incentives of bank managers and lead them to make inefficient
+ investment decisions (Goldstein and Sapra, 2013)
+\end_layout
+
+\begin_layout Enumerate
+restrict inter-bank risk-sharing arrangements(Goldstein and Leitner, 2013)
+\end_layout
+
+\begin_layout Enumerate
+Undermine banks' ability to produce private money (Gortan, 2013; 
+\series bold
+Dang et al., 2014
+\series default
+).
+\end_layout
+
+\begin_layout Enumerate
+Dang et al.
+ 2014, opacity can help banks to provide risk sharing benefits, what does
+ it mean? Secret keep of regulators (DeYoung et al.
+ 2001; Goldman and Sapra, 2013).
+\end_layout
+
+\begin_layout Standard
+The relation between bank financial reporting and bank transparency is complicat
+ed due ot accounting discretion.
+ On the bright side, managers can use the discretion to 
+\series bold
+signial private information;
+\series default
+ on the dardside, it encourages 
+\series bold
+opportunistic behaviours
+\series default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Banks' investment decisions are based on private information that is not
+ availabel to those outside the bank (Diamond, 1984; Boyd and Prescott,
+ 1986).
+ 
+\end_layout
+
+\begin_layout Standard
+Banks may also have incentives to suppress public information about their
+ assets to support their role as liquidity providers (Gorton, 2013; Dang
+ et al., 2014).
+ This opaque lead to excessive-risk taking by individual banks and the contribut
+ion of individual banks to the risk of the finnancial system (e.g., Fianncial
+ Stability Forum, 2009, Brunnermeier et al., 2009; Hanson et al., 2011).
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Bank balancesheet
+\series default
+ and economy (Gorton, 2013; Kashyap et al., 2002; Kashyap and Stein, 2000).
+ To the extent that the balance sheets of many banks are simultaneously
+ vulnerable to the same downside risk exposeures, negative economic shocks
+ can cause banks to co-move and amplify shocks across the entire economy
+ (Adrian and Brunnermeier, 2011; Archarya et al., 2010).
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Financial Stability Forum (2009) and U.S.
+ Treasury (2009) 
+\series default
+recommonding that both the FASB and IASB re-evaluate fair value accounting,
+ accounting for loan losses, and hedge accounting, among other issues.
+ 
+\end_layout
+
+\begin_layout Standard
+Gao and Jiang (2014) argues that reporting discretion can potentially reduce
+ bank run.
+ 
+\end_layout
+
+\begin_layout Standard
+A large literature examines accounting discretion in banking (Beatty and
+ Liao, 2014; Ryan, 2011).
+ The literature provides evidence that banks use accounting discretion to
+ signal strength and to manage earnigs.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Signal:
+\series default
+ Beaver et al.
+ (1989), Elliott et al.
+ (1991), Griffin and Wallach (1991), Wahlen (1994), Liu and Ryan (1995),
+ and Beaver and Engel (1996).
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Manage earnings: 
+\series default
+Moyer (1990), Collins et al.
+ (1995) and Beatty et al.
+ (1995), Beatty and Harris (1998), Ahmed et al.
+ (1999), Beatty et al.
+ (2002), and Riepe (2014), among many others.
+ 
+\end_layout
+
+\begin_layout Subsection
+Loan loss provision policy
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "bushman_delayed_2015"
+
+\end_inset
+
+,Beatty and Liao, 2011; Bhat et al., 2014; Bushman and Williams 2012, 2014;
+ and Nichols et al., 2009.
+ 
+\end_layout
+
+\begin_layout Standard
+Conceptually, loan loss provisions and loan loss reserves can be viewed
+ as providing a cushion against expected losses while bank capital is a
+ buffer against unexpected losses (e.g., Laeven and Majnoni, 2003).
+ 
+\end_layout
+
+\begin_layout Standard
+Delayed loss recognition creates an overhang of unrecognized losses that
+ carry forward to the future, which increase the capital inadequacy concerns
+ during economic downturn.
+\end_layout
+
+\begin_layout Standard
+Bushman and Williams (2014), 
+\emph on
+DELR
+\emph default
+ increase bank liquidity risk and systemic risk.
+\end_layout
+
+\begin_layout Standard
+Other possible accounting discretion: Huizinga and Laeven (2012).
+ 
+\end_layout
+
+\begin_layout Subsection
+Transparency and Discipline of Bank risk-taking
+\end_layout
+
+\begin_layout Standard
+The thrust of much of this research is to examine whether the prices of
+ banks’ securities respond to changes in bank risk in a timely fashion (e.g.,
+ Flannery and Nikolova, 2004).
+ Acharya et al.
+ (2014) show that while a positive relationship exists between risk and
+ credit spreads for medium and small institutions, the risk-to-spread relationsh
+ip is significantly weaker for the largest institutions.
+\end_layout
+
+\begin_layout Standard
+Berger and Turk-Ariss (2014) test whether discipline exerted by depositors
+ decreased or increased during the crisis.
+ They find that significant depositor discipline existed prior to the crisis
+ in both the U.S.
+ and EU, but that that such discipline generally decreased during the crisis,
+ consistent with government reactions dampening market discipline (e.g., expanding
+ deposit insurance coverage and rescuing troubled institutions).
+\end_layout
+
+\begin_layout Standard
+Nier and Baumann (2006)
+\end_layout
+
+\begin_layout Standard
+Bushman and Williams (2012)
+\end_layout
+
+\begin_layout Standard
+Accounting and systemic risk:
+\end_layout
+
+\begin_layout Standard
+Ng and Roychowdhury (2014) 
+\end_layout
+
+\begin_layout Standard
+Van den Heuvel, 2009
+\end_layout
+
+\begin_layout Standard
+The literature posits a range of potential negative consequences of capital
+ inadequacy or anticipation of capital adequacy concerns (e.g., Van den Heuvel,
+ 2009).
+ These include increased incentives for risk-shifting activities (Bushman
+ and Williams, 2012), reduced bank lending (e.g., Bernanke and Lown 1991;
+ Beatty and Liao 2011), deleveraging via asset sales potentially at fire
+ sale prices (e.g.
+ Hanson, et al.
+ 2011), decreased probability of survival, competitive position and market
+ share (e.g., Berger and Bouwman 2013), and increased borrowing costs and
+ decreased availability of credit (e.g., Alfonso et al., 2011; Kashyap and
+ Stein, 1995, 200; Ratnovski, 2013).
+\end_layout
+
+\begin_layout Standard
+Bushman and Williams (2014) delayed expected loan loss recognition is significan
+tly associated with downside risk of individual banks and systemic risk.
+\end_layout
+
+\begin_layout Standard
+Beatty and Liao (2011), loan loss provision policy and bank lending behaviour.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Isolating underlying sources of pressure and understanding how distinct
+ sources of pressure differentially affect banks’ accounting and operational
+ choices is an important avenue for future research.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Volatility of revenue from trading?
+\end_layout
+
+\begin_layout Standard
+Along these lines, recent research has begun exploring sources of time varying
+ pressures on bank managers.
+ Bushman et al.
+ (2015) and Dou et al.
+ (2014) find that the extent to which banks delay loan loss recognition
+ increases as the competition a bank faces intensifies.
+\end_layout
+
+\begin_layout Standard
+Bhat et al.
+ (2013) 
+\end_layout
+
+\begin_layout Standard
+Bushman et al.
+ (2015) 
+\end_layout
+
+\begin_layout Subsection
+Fair value accounting and liquidity pricing
+\end_layout
+
+\begin_layout Subsection
+securitization
+\end_layout
+
+\begin_layout Subsection
+securities gains/losses recognition
+\end_layout
+
+\begin_layout Standard
+Beatty et al.
+ 2002
+\end_layout
+
+\begin_layout Subsection
+Regulatory capital
+\end_layout
+
+\begin_layout Standard
+Bushmand and Landsman, 2010; Gallemore, 2013
+\end_layout
+
+\begin_layout Subsection
+Available for sale securities
+\end_layout
+
+\begin_layout Subsection
+diclsore vs.
+ recognition
+\end_layout
+
+\begin_layout Section
+Bank regulation
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.fdic.gov/regulations/laws/important/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Dodd Frank Rule
+\end_layout
+
+\begin_layout Subsubsection
+Volcker Rule and proprietary trading
+\end_layout
+
+\begin_layout Standard
+Debates of the Volcker Rule
+\end_layout
+
+\begin_layout Standard
+1.
+ Duffie (2012) argues that there will be two main unintended consequences
+ :
+\end_layout
+
+\begin_layout Itemize
+The rule would reduce the quality and capacity of market making services
+ that banks provide to U.S.
+ investors.
+ Investors and issuers of securities would find it more costly to borrow,
+ raise capital, invest, hedge risk, and obtain liquidity for their existing
+ positions.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Market-making is inherently a form of proprietary trading.
+ To manage the inventory risk and efficientyly provide liquidity, a market
+ maker relies heavily on the option to buy and sell from other market makers.
+ 
+\end_layout
+
+\begin_layout Itemize
+Althoug the rule allow market making, the criteria and metrics that are
+ proposed would nevertheless substantially discourage the use of market
+ making discretion.
+ Due to the risk of regulatory sanction, career concern, and the proposed
+ approach to compensation, banks' risk tolerance are reduced and their incentive
+ to provide market making services are dampened.
+ 
+\end_layout
+
+\begin_layout Itemize
+The proposed rule would hamper efficient price discovery, lowing the quality
+ of information about economic fundamentals that is revealed by markets.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Eventually, non-bank providers of market-making services would fill some
+ or all of the lost market-making capacity, but with an unpredictable and
+ potentially adverse impact on the safety and soundness of the financial
+ system.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Non-bank broker-dealers are not regulated as banks.
+ Basel III liquid capital requirements also do not apply to non-bank broker
+ dealers.
+ The failure or sudden loss of capacity of a large broker dealer is at least
+ as adverse for the economy as the failure of a similarly large financial
+ institutions devoted to conventional lending and deposit taking.
+ The proposed rule could inadvertently increase systemic risk because of
+ a migration of market making activities to outside of the regulated banking
+ sectors.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Duffie (2012) suggests that regulatory capital and liquidity requirements
+ for market making are a more cost effective method of treating the associated
+ systemic risks.
+ 
+\end_layout
+
+\begin_layout Standard
+2.
+ Volcker rule fail to take the evolving financial market into consideration.
+ It reintroduces the static segregation of traditional banking and investment
+ bank activities in Glass-Stegeal act.
+ (Charles K.
+ Whitehead, Volcker rule and the evolving fianncial market, 2015.)
+\end_layout
+
+\begin_layout Itemize
+Even if proprietary trading is no longer located in banks, it may now be
+ conducted by less-regulated entities that affect banks and banking activities.
+ Banks that rely on hedge funds to manage credit risk will continue to be
+ exposed to proprietary trading--- perhaps less directly, but now also with
+ less regulatory oversight, than before.
+ 
+\end_layout
+
+\begin_layout Itemize
+The development of the capital market allow banks to transfer in-house managemen
+t of risk to lower cost of institutes like hedge funds, which are subject
+ to less regualtion, using instruments like CDS.
+ (outsourcing of risk management).
+\end_layout
+
+\begin_layout Itemize
+This outsourcing of credit risk management expose banks to risk of proprietary
+ trading even if it happens outside the banking system.
+ The problem of the outsourcing of credit risk management, like CDS, is
+ that it creates empty creditor problem.
+ Nobody actually implement the monitoring role.
+ 
+\end_layout
+
+\begin_layout Itemize
+The fluctuation of the hedge fund industry also affect banks' ability to
+ extend loan because banks' ability to manage credit risk relies on hedge
+ fund.
+ 
+\end_layout
+
+\begin_layout Itemize
+The rule leaves open the banks' ability to continue to pursue substantially
+ riskier activities--- including, for example, the extension of subprime
+ real estate loans.
+ The rule also fails to cover longer-term commitments, which were reported
+ to have been a significant source of bank losses---perhaps more significantly
+ than losses from short-term trading.
+ 
+\end_layout
+
+\begin_layout Standard
+3.
+ Economic consequence of the Volcker Rule (Thakor, 2012)
+\end_layout
+
+\begin_layout Itemize
+the Volcker rule will have a negative effect on market making and liquidity
+ provisions for many securities.
+ 
+\end_layout
+
+\begin_layout Itemize
+the rule will reduce the network benefits of market making for financial
+ institutions and businesses.
+ 
+\end_layout
+
+\begin_layout Itemize
+the rule is likely to lead to higher cost of capital for businesses and
+ petentially lower capital investments by these borrowers, along with a
+ possibily greater focus on riskier or more short-term oriented investment.
+ 
+\end_layout
+
+\begin_layout Itemize
+the rule will make bank risk management less efficient and will more broadly
+ adversely impact the structure of financial institutions, harming the ability
+ of businesses to raise capital.
+ 
+\end_layout
+
+\begin_layout Standard
+4.
+ Keppo, Jussi, and Josef Korte, 2015, Risk Targeting and Policy Illusions
+ - Evidence from the Volcker Rule.
+ SSRN Scholarly Paper, Social Science Research Network, Rochester, NY.
+ 
+\end_layout
+
+\begin_layout Standard
+Motivated by several banks' self-declared compliance, they analyze the Volcker
+ Rule’s announcement effects (or early compliance effect) on U.S.
+ Bank Holding Companies.
+ In line with the rule and the banks’ public compliance announcements, we
+ find that those banks that are presumably most affected by the Volcker
+ Rule already reduced their trading books relative to their total assets
+ almost 3% more than other banks.
+ However, the announcement of the rule did not reduce overall risk-taking.
+ To keep their risk targets, the affected banks use the remaining trading
+ assets in speculation, not in the hedging of the banking business.
+\end_layout
+
+\begin_layout Standard
+Reference:
+\end_layout
+
+\begin_layout Standard
+Acharya, V.
+ V., Cooley, T.
+ F., Richardson, M.
+ P., Walter, I., et al.
+ (2010).
+ Regulating Wall Street: The Dodd-Frank Act and the new architecture of
+ global finance.
+ Wiley
+\end_layout
+
+\begin_layout Standard
+Duffie, 2012, Market making under the proposed Volcker Rule.
+\end_layout
+
+\begin_layout Standard
+Proprietary trading: truth and fiction
+\end_layout
+
+\begin_layout Standard
+Garvey, Ryan, and Anthony Murphy, 2005, Entry, exit and trading profits:
+ A look at the trading strategies of a proprietary trading team, Journal
+ of Empirical Finance 12, 629–649.
+ 
+\end_layout
+
+\begin_layout Standard
+Fecht, Falko, Andreas Hackethal, and Yigitcan Karabulut, 2013, Is Proprietary
+ Trading Detrimental to Retail Investors? SSRN Scholarly Paper, Social Science
+ Research Network, Rochester, NY.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Bank Proprietary Trading
+\end_layout
+
+\begin_layout Standard
+King, M.
+ R., Massoud, N., and Song, K.
+ (2013).
+ “How does bank trading activity affect performance? An investigation before
+ and after the financial crisis.” Working paper, available at https://www.fdic.gov/
+bank/analytical/cfr/king.pdf.
+\end_layout
+
+\begin_layout Standard
+The current debate on the impact of proposed rules to ban or limit proprietary
+ trading activities (e.g.
+ Volcker Rule, Vickers and Liikanen reports) has motivated us to examine
+ whether the exposure of U.S.
+ bank holding companies (BHCs) to trading assets has an adverse impact on
+ their risk, profitability and stock return.
+ The literature provides conflicting evidence on how diversifying into different
+ business lines may affect a BHC’s performance.
+ We examine 
+\series bold
+three measures of a BHC’s trading activity: 
+\series default
+the share of trading revenues in operating income, the share of trading
+ assets in total assets, and the market share of trading assets across all
+ BHCs.
+ We find that a BHC’s trading activities are 
+\series bold
+positively correlated with its riskiness 
+\series default
+and 
+\series bold
+negatively correlated with profitability and stock returns
+\series default
+ during and after the 2007-2009 crisis.
+ These results hold when we control for changes in traditional lending activitie
+s and off-balance-sheet activities.
+ Additionally, we find that B
+\series bold
+HCs with a higher market share of trading assets make a greater contribution
+ to systemic risk.
+
+\series default
+ These results suggest that limiting proprietary trading may improve BHC
+ performance while reducing systemic risk, especially during economic downturns.
+\end_layout
+
+\begin_layout Subsubsection
+Bank and private equity
+\end_layout
+
+\begin_layout Standard
+Fang, Lily H., Victoria Ivashina, and Josh Lerner, 2012, Combining Banking
+ with Private Equity Investing.
+ SSRN Scholarly Paper, Social Science Research Network, Rochester, NY.
+ 
+\end_layout
+
+\begin_layout Standard
+Bank-affiliated private equity (PE) groups account for 30% of all PE investments.
+ These affiliated groups’ market share is highest during peaks of the PE
+ market, as is the fraction of transactions where the parent bank leads
+ the loan syndicate (parent-financed deals).
+ Bank-affiliated deals are similar in characteristics and financing to stand-alo
+ne deals, but have worse outcomes if consummated during the peaks of the
+ credit market.
+ Parent-financed deals enjoy significantly better financing terms than standalon
+e deals, but do not exhibit better performance.
+ The parent-financing advantage in loan terms is concentrated during credit
+ market peaks when banks tend to syndicate more of the loans to external
+ loan investors, and is not explained by the banks’ previous relationships
+ with the targets, the PE groups’ reputations, or the banks’ prominence
+ in structured financing markets.
+ Banks’ involvement in private equity investments provides significant cross-sel
+ling opportunities.
+ Collectively, this evidence is consistent with banks’ taking advantage
+ of favorable credit-market conditions.
+\end_layout
+
+\begin_layout Subsubsection
+Bank non-interest income
+\end_layout
+
+\begin_layout Standard
+How the share of noninterest income in operating income contributes to either
+ systemic risk or bank failure during a financial crisis.
+ 
+\end_layout
+
+\begin_layout Standard
+Brunnermeier et al (2012)
+\end_layout
+
+\begin_layout Standard
+De Jonghe (2010)
+\end_layout
+
+\begin_layout Standard
+DeYoung and Torna (2012)
+\end_layout
+
+\begin_layout Subsection
+Stress test and test disclosure
+\end_layout
+
+\begin_layout Subsection
+Bank transparency and regulatory forbearance 
+\end_layout
+
+\begin_layout Standard
+See Bushman (2015) EPR section 6.
+\end_layout
+
+\begin_layout Standard
+regulators may practice forbearance by choosing not to intervene and close
+ banks that they know to be unsound.
+ The literature posits a number of reasons that regulators may practice
+ forbearance.
+ These include political pressure (Mishkin 2000; Brown and Dinç 2005), loss
+ of reputation (Boot and Thakor 1993; Mishkin 2000), or concerns that intervenin
+g in one bank can negatively impact the overall financial sector (Brown
+ and Dinç 2011; Morrison and White 2013).
+\end_layout
+
+\begin_layout Section
+Systemic Risk
+\end_layout
+
+\begin_layout Standard
+Following the recent financial crisis there has been considerable interest
+ in modeling and measuring systemic risk.
+ There is no agreed upon approach to this measurement (e.g., Bisias et al.,
+ 2012; Hansen, 2014).
+\end_layout
+
+\begin_layout Standard
+One important stream of literature exploits the high frequency observability
+ of banks’ equity prices to extract measures of systemic risk.
+ Some papers in this stream use contingent claims analysis (e.g., Gray et
+ al.
+ 2008 and Gray and Jobst, 2009), while others focus on codependence in the
+ tails of equity returns using reduced form approaches (Acharya et al., 2010,
+ Adrian and Brunnermeier, 2011).
+\end_layout
+
+\begin_layout Section
+Contagion and liquidity shock
+\end_layout
+
+\begin_layout Section
+Bank compensation
+\end_layout
+
+\begin_layout Standard
+Seeking Alpha, Taking Risk: Evidence from Non-executive pay in U.S.
+ Bank Holding Companies, Acharya, Litov, Sepe (2014) 
+\end_layout
+
+\begin_layout Standard
+Efing, Matthias, Harald Hau, Patrick Kampkötter, and Johannes Steinbrecher,
+ 2015, Incentive pay and bank risk-taking: Evidence from Austrian, German,
+ and Swiss banks, Journal of International Economics 96, Supplement 1.
+ 37th Annual NBER International Seminar on Macroeconomics, S123–S140.
+ 
+\end_layout
+
+\begin_layout Standard
+Sepe, Simone M.
+ and Whitehead, Charles K., "Paying for Risk: Bankers, Compensation, and
+ Competition" (2014).
+ Cornell Law Faculty Working Papers.
+ Paper 114
+\end_layout
+
+\begin_layout Standard
+The Effect of Employee Stock Options on Bank Investment Choice, Borrowing,
+ and Capital Hamid Mehran and Joshua Rosenberg Federal Reserve Bank of New
+ York Staff Reports, no.
+ 305 October 2007; revised June 2008
+\end_layout
+
+\begin_layout Section
+Size and complexity of banking industry
+\end_layout
+
+\begin_layout Standard
+https://opencorporates.com/info/about this site provides a very exciting
+ database.
+ Maybe useful to construct a complexity measure.
+\end_layout
+
+\begin_layout Section
+Community banks
+\end_layout
+
+\begin_layout Section
+Financial Reporting for Banking Industry
+\end_layout
+
+\begin_layout Section
+Reference
+\end_layout
+
+\begin_layout Standard
+http://www.morganstanley.com/about-us-articles/6933.html
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "Bank_bib"
+options "jae"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
